@@ -1,0 +1,7 @@
+playwright>=1.45.0
+beautifulsoup4
+requests
+pandas
+twilio
+python-dotenv
+PyYAML
